@@ -1,2 +1,2 @@
 # Listinha
-- [ x ] Template method
+- [] Template method
